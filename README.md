@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repository ini berisi Pengalaman Belajarku di AWS
+Repository ini berisi Pengalaman Belajarku di Dicoding
 
 14 Juni 2022
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
